@@ -1,0 +1,56 @@
+header {
+    background-color:white;
+    overflow:auto;
+    margin-bottom:5px;
+    padding:15px 0px;
+    text-align:right;
+  }
+
+  /* btns 클래스 전체적 설정 */
+  .btns {
+      display: inline-block;
+  }
+  
+  .btns > div {
+    position:relative;
+    text-align:center;
+    float:left;
+    text-align:center;
+    margin:5px;
+    border-right: 2px solid gray;
+    border-bottom: 2px solid gray;
+    background-color:#99ccff;
+  }
+
+  .btns > div > a {
+    text-decoration:none;
+  }
+
+  .top-btns > div
+  {
+    width:100px;
+    height:30px;
+    line-height:30px;
+  }
+
+   body {
+    text-align:center;
+    background-color:#69c;
+    padding: 45px 15px;
+    margin:0;
+    overflow:auto;
+  }
+  
+  
+
+.middle-wrap {
+  padding:30px 130px;
+  background-color:white;
+}
+
+  footer {
+    background-color:white;
+    margin-top:5px;
+    padding:30px 5px;
+    text-align:center;
+  }

@@ -1,0 +1,23 @@
+
+  .middle-btns > div {
+    width: 100px;
+    height: 80px;
+    line-height:80px;
+    margin-bottom:10px;
+  }
+  
+  .middle-btns > div > a {
+    color:white;
+  }
+
+ img {
+    width:65%;
+    height:90%;
+     display:block;
+     margin:auto;
+     clear:left;
+  }
+
+  
+  
+  

@@ -1,0 +1,24 @@
+.middle-wrap {
+    text-align:left;
+    display:block;
+}
+
+img {
+    border:5px solid gray;
+    width:250px;
+    height:220px;
+}
+
+.middle-wrap > div {
+    position:relative;
+   
+    padding:60px 20px;
+    height:200px;
+}
+
+.middle-wrap > div > div {
+    position:relative;
+    width:65%;
+    left:300px;
+    bottom:250px;
+}
